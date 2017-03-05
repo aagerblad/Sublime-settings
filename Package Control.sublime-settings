@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alda",
+		"ANSIescape",
+		"AutoHotkey",
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"GitGutter",
+		"Jade",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"LESS",
+		"LoremGibson",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"R-Box",
+		"SendTextPlus",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Theme - Soda SolarizedDark",
+		"Vintageous"
+	]
+}

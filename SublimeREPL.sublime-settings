@@ -1,0 +1,4 @@
+{
+    "default_extend_env": {"PATH": "{PATH};C:\\Program Files\\R\\R-3.2.5\\bin\\x64"},
+    "show_transferred_text": true
+}
